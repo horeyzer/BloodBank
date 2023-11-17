@@ -1,0 +1,13 @@
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Menu.resources
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Fillout.resources
+C:\Users\vchup\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Records.resources
